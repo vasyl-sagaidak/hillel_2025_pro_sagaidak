@@ -1,4 +1,4 @@
-package lesson1.app.converter;
+package app.converter;
 
 public class Main {
 
